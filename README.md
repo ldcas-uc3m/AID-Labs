@@ -12,6 +12,7 @@ Universidad Carlos III de Madrid
 4. [Linear Regression](linear-regression.ipynb)
 5. [Logistic Regression](logistic-regression.ipynb)
 6. [Naive Bayes](naive-bayes.ipynb)
+7. [Support Vector Machine](svm.ipynb)
 
 
 ## Instalación
