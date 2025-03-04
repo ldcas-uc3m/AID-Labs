@@ -13,6 +13,7 @@ Universidad Carlos III de Madrid
 5. [Logistic Regression](logistic-regression.ipynb)
 6. [Naive Bayes](naive-bayes.ipynb)
 7. [Support Vector Machine](svm.ipynb)
+8. [Random Forest](random-forest.ipynb)
 
 
 ## Instalación
