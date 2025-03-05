@@ -14,6 +14,7 @@ Universidad Carlos III de Madrid
 6. [Naive Bayes](naive-bayes.ipynb)
 7. [Support Vector Machine](svm.ipynb)
 8. [Random Forest](random-forest.ipynb)
+9. [XGBoost](xgboost.ipynb)
 
 
 ## Instalación
