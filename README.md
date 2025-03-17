@@ -15,6 +15,7 @@ Universidad Carlos III de Madrid
 7. [Support Vector Machine](svm.ipynb)
 8. [Random Forest](random-forest.ipynb)
 9. [XGBoost](xgboost.ipynb)
+10. [Stacking](stacking.ipynb)
 
 
 ## Instalación
