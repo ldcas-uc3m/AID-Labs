@@ -16,6 +16,13 @@ Universidad Carlos III de Madrid
 8. [Random Forest](random-forest.ipynb)
 9. [XGBoost](xgboost.ipynb)
 10. [Stacking](stacking.ipynb)
+11. [Introduction to PyTorch](intro-pytorch.ipynb)
+12. [Data Loaders](dataloaders.ipynb)
+13. [Transformers](transformers.ipynb)
+<!-- 14. [Basic Neural Network](basic-neural-network.ipynb) -->
+15. [Transfer Learning - AlexNet](transfer-learning-alexnet.ipynb)
+16. [Transfer Learning - Timm](transfer-learning-timm.ipynb)
+17. [Transfer Learning - MultiTag](transfer-learning-multitag.ipynb)
 
 
 ## Instalación
